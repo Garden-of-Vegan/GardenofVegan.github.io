@@ -1,9 +1,23 @@
 h1{
-  color: green;
+  color: #145A32;
 }
 
 body{
+   background-color: #FDF2E9;
 }
 
 p{
+}
+
+a{
+  background-color: #D6EAF8;
+  color:
+}
+
+h2{
+  color: #F2D7D5;
+}
+
+ul{
+   color: #F2D7D5;
 }
