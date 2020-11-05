@@ -23,3 +23,7 @@ ul{
   border: 2px;
   border-color: #D0D3D4;
 }
+
+nav{
+  display: grid;
+}
