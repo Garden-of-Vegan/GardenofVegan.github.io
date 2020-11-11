@@ -26,6 +26,8 @@ ul{
   display: grid;
 }
 
-table, th, tr, td{
-  border: 2px, solid, #D0D3D4;
+table{
+  border: 2px;
+  border-style: solid;
+  border-color: #D0D3D4;
 }
