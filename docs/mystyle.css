@@ -26,7 +26,7 @@ ul{
   display: grid;
 }
 
-table{
+td{
   border: 2px;
   border-style: solid;
   border-color: #D0D3D4;
