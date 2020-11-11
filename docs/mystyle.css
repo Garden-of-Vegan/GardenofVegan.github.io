@@ -1,33 +1,32 @@
-h1{
+h1 {
   color: #145A32;
 }
 
-body{
+body {
    background-color: #FDF2E9;
 }
 
-p{
+p {
 }
 
-a{
+a {
   background-color: #D6EAF8;
   color: #AEB6BF;
 }
 
-h2{
+h2 {
   color: #F2D7D5;
 }
 
-ul{
+ul {
    color: #F2D7D5;
 }
 
-#navbar{
+#navbar {
   display: grid;
 }
 
-td{
-  border: 2px;
-  border-style: solid;
-  border-color: #D0D3D4;
+table, tr, td {
+  border: 2px solid #D0D3D4;
+  border-collapse: collapse;
 }
