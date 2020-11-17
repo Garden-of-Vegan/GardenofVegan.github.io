@@ -24,6 +24,17 @@
 </ul>
 </main>
 </div>
+<form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
+
+Name: 
+<input type="text" name="name">
+<span class="error">* <?php echo $name_error;?></span>
+<br>
+
+E-mail:
+<input type="text" name="email">
+<span class="error">* <?php echo $email_error;?></span>
+<br>
 <p>
 <h1>Sign up for awesome rewards!
 </h1>
