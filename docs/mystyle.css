@@ -1,8 +1,15 @@
 h1 {
   color: #009900;
-  font-style: italic;
+  font-style: ;
 }
-
+@font-face {
+  font-family: FontName;
+  src: url();
+  src: url('path/filename?#iefix') format('embedded-opentype'),
+       url('path/filename.woff2') format('woff2'), 
+       url('path/filename.woff') format('woff'),
+       url('path/filename.ttf')  format('truetype');
+}
 body {
    background-color: #FDF2E9;
 }
@@ -30,7 +37,4 @@ ul {
 table, tr, td {
   border: 2px solid #D0D3D4;
   border-collapse: collapse;
-}
-img{
-  width: 180px;
 }
