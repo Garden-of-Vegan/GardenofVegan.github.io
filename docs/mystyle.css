@@ -3,14 +3,7 @@ h1 {
   font-family: sans-serif;
   src: url('https://github.com/Garden-of-Vegan/GardenofVegan.github.io/files/5617800/headliner_no_45.zip');
 }
-@font-face {
-  font-family: sans-serif;
-  src: url('https://github.com/Garden-of-Vegan/GardenofVegan.github.io/files/5617800/headliner_no_45.zip');
-  src: url('https://github.com/Garden-of-Vegan/GardenofVegan.github.io/files/5617800/headliner_no_45.zip') format('embedded-opentype'),
-       url('https://github.com/Garden-of-Vegan/GardenofVegan.github.io/files/5617800/headliner_no_45.zip') format('woff2'), 
-       url('https://github.com/Garden-of-Vegan/GardenofVegan.github.io/files/5617800/headliner_no_45.zip') format('woff'),
-       url('https://github.com/Garden-of-Vegan/GardenofVegan.github.io/files/5617800/headliner_no_45.zip')  format('truetype');
-}
+
 body {
    background-color: #FDF2E9;
 }
