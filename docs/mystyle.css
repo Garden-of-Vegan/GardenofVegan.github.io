@@ -31,3 +31,6 @@ table, tr, td {
   border: 2px solid #D0D3D4;
   border-collapse: collapse;
 }
+img{
+  width: 180px;
+}
