@@ -1,6 +1,7 @@
 h1 {
   color: #009900;
-  font-face:;
+  font-family: sans-serif;
+  src: url('https://github.com/Garden-of-Vegan/GardenofVegan.github.io/files/5617800/headliner_no_45.zip');
 }
 @font-face {
   font-family: sans-serif;
