@@ -51,6 +51,14 @@ div.gallery2 {
   height: 500px;
 }
 
+div.gallery3 {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 500px;
+  height: 500px;
+}
+
 div.gallery:hover {
   border: 1px solid #777;
 }
