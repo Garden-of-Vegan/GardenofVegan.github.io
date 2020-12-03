@@ -27,6 +27,10 @@ h3{
   
 }
 
+li{
+  display: inline;
+}
+
 ul {
    color: #E7B5B1;
    list-style-type: none;
