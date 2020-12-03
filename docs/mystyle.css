@@ -15,6 +15,7 @@ a {
   background-color: #D6EAF8;
   color: #AEB6BF;
   text-align: center;
+  display: block;
 }
 
 h2 {
