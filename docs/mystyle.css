@@ -30,6 +30,7 @@ ul {
 
 #navbar {
   display: grid;
+  text-align: center;
 }
 
 table, tr, td {
