@@ -33,7 +33,7 @@ ul {
    border: 2px solid #D0D3D4;
 }
 
-#navbar {
+div.navbar {
   display: grid;
   text-align: center;
 }
