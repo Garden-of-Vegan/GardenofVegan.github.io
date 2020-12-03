@@ -14,10 +14,12 @@ p {
 a {
   background-color: #D6EAF8;
   color: #AEB6BF;
+  text-align: center;
 }
 
 h2 {
   color: #F2D7D5;
+  text-align: center
 }
 
 ul {
@@ -25,7 +27,7 @@ ul {
    list-style-type: none;
    margin: 0;
    padding: 0;
-   text-align: center;
+   text-align: right;
 }
 
 #navbar {
