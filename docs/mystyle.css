@@ -1,14 +1,14 @@
 h1 {
-  color: #009900;
+  color: #B8860B;
   font-family src: url('https://github.com/Garden-of-Vegan/GardenofVegan.github.io/files/5617800/headliner_no_45.zip');
 }
 
 body {
-   background-color: #FDF2E9;
+   background-color: #556B2F;
 }
 
 p {
-  color: #E7B5B1;
+  color: #F8F8FF;
 }
 
 a {
@@ -20,7 +20,7 @@ a {
 
 h2 {
   color: #F2D7D5;
-  text-align: center;
+  text-align: left;
 }
 
 h3{
